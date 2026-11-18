@@ -1,8 +1,15 @@
 # Bat-Signal App (Desafio React Native - DIO)
-
+---
 Aplicativo mobile desenvolvido em **React Native** com **Expo** e **TypeScript**, construído como parte dos desafios práticos da **Formação React Native Developer** na **DIO (Digital Innovation One)**. 
 
 O app simula um sistema de alerta do Cavaleiro das Trevas, permitindo que cidadãos de Gotham solicitem ajuda de forma interativa.
+
+---
+## 🙏 Agradecimentos
+
+Este projeto foi desenvolvido com base nas aulas e orientações do professor **Felipe Aguiar**. Conheça mais sobre o trabalho dele em seu perfil no GitHub: [@felipeAguiarCode](https://github.com/felipeAguiarCode).
+
+---
 
 ## 🚀 Tecnologias Utilizadas
 
